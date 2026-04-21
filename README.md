@@ -115,8 +115,8 @@ This is a three-person project. All changes go through pull requests and must pa
 
 ## Authors
 
-- Leila
-- Huszi
+- [IamLeila](https://github.com/IamLeila)
+- [Morimoto](https://github.com/davidhuszardev)
 - [opa](https://github.com/opa)
 
 
